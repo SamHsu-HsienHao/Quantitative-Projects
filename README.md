@@ -1,3 +1,3 @@
 # Quatatative-Projects
 
-These are the projects that I've done with Machine Learning by Python
+These are the projects that I've done with Machine Learning and Deep Learning by Python
